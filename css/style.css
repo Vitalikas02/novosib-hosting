@@ -1011,7 +1011,7 @@ summary::marker {
     }
 }
 
-@media (max-width: 836px) {
+@media (max-width: 900px) {
     .header-menu-item {
         display: none;
     }
