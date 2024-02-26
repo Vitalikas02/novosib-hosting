@@ -788,7 +788,8 @@ summary::marker {
     margin-right: 30px;
 }
 
-.support-form-container_name[placeholder="Имя"] {
+.support-form-container_name::placeholder {
+    color: rgb(168, 180, 180);
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -801,7 +802,8 @@ summary::marker {
     border: 2px solid rgba(0, 0, 0, 0.25)
 }
 
-.support-form-container_phone[placeholder="Телефон"] {
+.support-form-container_phone::placeholder {
+    color: rgb(168, 180, 180);
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -815,20 +817,23 @@ summary::marker {
     margin-left: 30px;
 }
 
-.support-form-container_mail[placeholder="E-mail"] {
+.support-form-container_mail::placeholder {
+    color: rgb(168, 180, 180);
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
 }
 
 .support-form-container_message {
+    color: rgb(168, 180, 180);
     width: 80%;
     height: 170px;
     background-color: #111;
     border: 2px solid rgba(0, 0, 0, 0.25);
 }
 
-.support-form-container_message[placeholder=Сообщение] {
+.support-form-container_message::placeholder {
+    color: rgb(168, 180, 180);
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
