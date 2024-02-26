@@ -789,7 +789,7 @@ summary::marker {
 }
 
 .support-form-container_name::placeholder {
-    color: rgb(168, 180, 180);
+    color: #FFF;
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -803,7 +803,7 @@ summary::marker {
 }
 
 .support-form-container_phone::placeholder {
-    color: rgb(168, 180, 180);
+    color: #FFF;
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -818,14 +818,14 @@ summary::marker {
 }
 
 .support-form-container_mail::placeholder {
-    color: rgb(168, 180, 180);
+    color: #FFF;
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
 }
 
 .support-form-container_message {
-    color: rgb(168, 180, 180);
+    color: #FFF;
     width: 80%;
     height: 170px;
     background-color: #111;
@@ -833,7 +833,7 @@ summary::marker {
 }
 
 .support-form-container_message::placeholder {
-    color: rgb(168, 180, 180);
+    color: #FFF;
     padding-left: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
