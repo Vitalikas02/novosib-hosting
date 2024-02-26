@@ -92,6 +92,8 @@ li {
 }
 
 .header-menu-logo img {
+    width: 153px;
+    height: 66px;
     display: block;
     max-width: 150px;
     padding: 12px 0px;
