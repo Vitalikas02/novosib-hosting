@@ -93,7 +93,7 @@ li {
 
 .header-menu-logo img {
     display: block;
-    max-width: 100px;
+    max-width: 150px;
     padding: 12px 0px;
 }
 
@@ -132,7 +132,7 @@ li {
     left: 0;
 }
 
-.header-menu-burger {
+.header-menu-burger2 {
     display: flex;
     list-style-type: none;
 }
